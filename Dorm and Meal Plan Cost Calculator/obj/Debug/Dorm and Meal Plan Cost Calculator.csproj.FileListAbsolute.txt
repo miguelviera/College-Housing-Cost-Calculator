@@ -1,0 +1,53 @@
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe.config
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Form1.resources
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Properties.Resources.resources
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.GenerateResource.cache
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\source\repos\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe.config
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Form1.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Properties.Resources.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.GenerateResource.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe.config
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Form1.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Properties.Resources.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.GenerateResource.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - Copy\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.ResultForm.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe.config
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Form1.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Properties.Resources.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.ResultForm.resources
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.GenerateResource.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\viera\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe.config
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\bin\Debug\Dorm and Meal Plan Cost Calculator.pdb
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Form1.resources
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.Properties.Resources.resources
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm_and_Meal_Plan_Cost_Calculator.ResultForm.resources
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.exe
+C:\Users\migue\OneDrive\Desktop\Dorm and Meal Plan Cost Calculator - last\Dorm and Meal Plan Cost Calculator\obj\Debug\Dorm and Meal Plan Cost Calculator.pdb
